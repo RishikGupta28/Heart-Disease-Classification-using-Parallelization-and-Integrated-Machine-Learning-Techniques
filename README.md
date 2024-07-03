@@ -61,6 +61,5 @@ The models demonstrated improved accuracy and efficiency in predicting heart dis
 ## Conclusion
 This project showcases the potential of integrating multiple machine learning algorithms and parallel processing techniques for enhanced heart disease classification. The proposed methodology can be further extended and optimized for real-world clinical applications.
 
----
 
-Feel free to customize and enhance this further based on your specific needs!
+
